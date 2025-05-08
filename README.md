@@ -3,44 +3,43 @@
 💻 Python Specialist | 🛠️ Django Developer | 📊 Data Storyteller  
 🌍 Open to Collaborations & Freelance Opportunities  
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawan-reda-479016284/)  
-![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:rawanredag6b@gmail.com)  
-![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/RawanReda12959)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rawan-reda-479016284/) 
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:rawanredag6b@gmail.com) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RawanReda12959)  
 
 ### 💡 About Me  
-🎓 **AI/ML Focus** with expertise in Python, SQL, and data analysis.  
-🎯 **Backend Developer** building scalable systems with Django.  
-🌱 Currently mastering **React, R, and advanced ML techniques**.  
+🎓 **AI/ML Focus** with expertise in Python, SQL, and data analysis  
+🎯 **Backend Developer** building scalable systems with Django  
+🌱 Currently mastering **React, R, and advanced ML techniques**  
 🔍 **Error-solving addict** – I thrive on debugging challenges!  
-🤝 Seeking roles where I can merge **data science and backend development**.  
+🤝 Seeking roles merging **data science and backend development**  
 
 ### 🛠️ Tech Stack  
 **💻 Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
 
-**🛠️ Tools & Platforms**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-150458?logo=Numpy)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
+**📊 Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+
+**🛠️ DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
 
 ### 🎯 2024 Goals  
-- Dive deep into **Deep Learning and NLP**  
-- Build a full-stack app with **Django + React**  
-- Contribute to an **open-source ML project**  
-- Earn a **ALX ProDEV certification**  
+- Master **Deep Learning and Computer Vision**  
+- Deploy a **Django+React ML web app**  
+- Earn **ALX ProDev Backend** certification  
+- Contribute to **PyTorch/Keras** open-source  
 
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rreda11&show_icons=true&theme=radical)  
-
-  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rreda11&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rreda11&layout=compact&theme=radical" />
+</div>  
 
 ### 🤝 Let’s Connect!  
 📬 **Email**: [rawanredag6b@gmail.com](mailto:rawanredag6b@gmail.com)  
 🔗 **LinkedIn**: [Rawan Reda](https://www.linkedin.com/in/rawan-reda-479016284/)  
 🐦 **Twitter**: [@RawanReda12959](https://x.com/RawanReda12959)  
 
-💬 **Fun Fact**: I get a rush from fixing errors – the redder the terminal, the more motivated I become!  
+💬 **Fun Fact**: My debugging sessions feel like treasure hunts - each error message is a clue! 🕵️‍♀️  
