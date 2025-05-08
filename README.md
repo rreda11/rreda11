@@ -22,7 +22,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
 
 **🛠️ DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![HTML](https://img.shields.io/badge/PostgreSQL-4169E1?logo=HTML&logoColor=white) ![CSS](https://img.shields.io/badge/PostgreSQL-4169E1?logo=CSS&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-4169E1?logo=HTML&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4169E1?logo=CSS&logoColor=white)
 
 ### 🎯 2024 Goals  
 - Master **Deep Learning and Computer Vision**  
