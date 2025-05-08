@@ -1,45 +1,36 @@
 # Hi there, I'm Rawan Reda! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Data Scientist | Data Analyst | Back-end Engineer** with experience in **machine learning**. I love tackling complex problems, learning new skills, and transforming data into meaningful insights.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Django, React, and R**
+- 🔭 Working on: **Machine learning projects and web development**
+- 🌍 Languages: **Python, SQL, HTML, CSS, Java, C++**
+- 📫 How to reach me: [rawanredag6b@gmail.com](mailto:rawanredag6b@gmail.com)
+- ⚡ Fun fact: **I really enjoy seeing errors and fixing them!**
 
 ## My Skills 🧠
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+*You can find more skill badges at [shields.io](https://shields.io/) or [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- [Twitter](https://x.com/RawanReda12959)
+- [LinkedIn](https://www.linkedin.com/in/rawan-reda-479016284/)
+- Email: [rawanredag6b@gmail.com](mailto:rawanredag6b@gmail.com)
 
+## GitHub Stats 📊
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+*Note: Replace "YOUR_USERNAME" with your actual GitHub username to display your stats.*
