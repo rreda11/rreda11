@@ -3,9 +3,9 @@
 💻 Python Specialist | 🛠️ Django Developer | 📊 Data Storyteller  
 🌍 Open to Collaborations & Freelance Opportunities  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawan-reda-479016284/)  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:rawanredag6b@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/RawanReda12959)  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawan-reda-479016284/)  
+![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:rawanredag6b@gmail.com)  
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/RawanReda12959)  
 
 ### 💡 About Me  
 🎓 **AI/ML Focus** with expertise in Python, SQL, and data analysis.  
