@@ -21,7 +21,7 @@ I'm a passionate **Data Scientist | Data Analyst | Back-end Engineer** with expe
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-*You can find more skill badges at [shields.io](https://shields.io/) or [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Get in Touch 📬
 
@@ -33,4 +33,12 @@ I'm a passionate **Data Scientist | Data Analyst | Back-end Engineer** with expe
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rreda11&show_icons=true&theme=radical)
 
-*Note: Replace "YOUR_USERNAME" with your actual GitHub username to display your stats.*
+
+## My Goals 🎯
+
+I'm currently focused on expanding my expertise in:
+
+- **Deep Learning**: Building and optimizing neural networks for complex problems
+- **Image Processing**: Developing computer vision applications and algorithms
+- **NLP**: Working with text data and language models
+- **Backend Development**: Improving my skills in building robust, scalable backend systems
