@@ -31,6 +31,6 @@ I'm a passionate **Data Scientist | Data Analyst | Back-end Engineer** with expe
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rreda11&show_icons=true&theme=radical)
 
 *Note: Replace "YOUR_USERNAME" with your actual GitHub username to display your stats.*
