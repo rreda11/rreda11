@@ -24,11 +24,10 @@
 **🛠️ DevOps & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-4169E1?logo=HTML&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-4169E1?logo=CSS&logoColor=white)
 
-### 🎯 2024 Goals  
+### 🎯 2025 Goals  
 - Master **Deep Learning and Computer Vision**  
-- Deploy a **Django+React ML web app**  
-- Earn **ALX ProDev Backend** certification  
-- Contribute to **PyTorch/Keras** open-source  
+- Deploy a **Django+React ML web app**   
+
 
 
 ### 📈 GitHub Stats  
